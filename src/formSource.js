@@ -1,44 +1,21 @@
 export const userInputs = [
     {
       id: 1,
-      label: "Username",
+      label: "Artist Name",
       type: "text",
       placeholder: "john_doe",
     },
     {
       id: 2,
-      label: "Name and surname",
+      label: "Image name",
       type: "text",
-      placeholder: "John Doe",
+      placeholder: "Monalisa",
     },
     {
       id: 3,
-      label: "Email",
-      type: "mail",
-      placeholder: "john_doe@gmail.com",
-    },
-    {
-      id: 4,
-      label: "Phone",
+      label: "Image description",
       type: "text",
-      placeholder: "+1 234 567 89",
-    },
-    {
-      id: 5,
-      label: "Password",
-      type: "password",
-    },
-    {
-      id: 6,
-      label: "Address",
-      type: "text",
-      placeholder: "Elton St. 216 NewYork",
-    },
-    {
-      id: 7,
-      label: "Country",
-      type: "text",
-      placeholder: "USA",
+      placeholder: "lerom ipsum dowe....",
     },
   ];
   

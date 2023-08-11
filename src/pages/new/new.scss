@@ -30,8 +30,9 @@
         }
       }
 
-      .right {
-        flex: 2;
+      .form {
+        display: flex;
+        flex-direction: column;
 
         form {
           display: flex;
@@ -64,7 +65,7 @@
             width: 150px;
             padding: 10px;
             border: none;
-            background-color: teal;
+            background-color: #FFB86B;
             color: white;
             font-weight: bold;
             cursor: pointer;

@@ -37,7 +37,7 @@ const Datatable = () => {
     <div className="datatable">
       <div className="datatableTitle">
        <input type="text" placeholder="search" />
-        <Link to="/users/new" className="link">
+        <Link to="/images/new" className="link">
           Add New
         </Link>
       </div>
