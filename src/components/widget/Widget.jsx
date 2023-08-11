@@ -18,8 +18,8 @@ const Widget = ({ type }) => {
           <AccountBalanceWalletOutlinedIcon
             className="icon"
             style={{
-              backgroundColor: "rgba(128, 0, 128, 0.2)",
-              color: "purple",
+              backgroundColor: "black",
+              color: "white",
             }}
           />
         ),
@@ -34,8 +34,8 @@ const Widget = ({ type }) => {
           <AccountBalanceWalletOutlinedIcon
             className="icon"
             style={{
-              backgroundColor: "rgba(128, 0, 128, 0.2)",
-              color: "purple",
+              backgroundColor: "black",
+              color: "white",
             }}
           />
         ),
@@ -50,8 +50,8 @@ const Widget = ({ type }) => {
           <AccountBalanceWalletOutlinedIcon
             className="icon"
             style={{
-              backgroundColor: "rgba(128, 0, 128, 0.2)",
-              color: "purple",
+              backgroundColor: "black",
+              color: "white",
             }}
           />
         ),
@@ -65,8 +65,8 @@ const Widget = ({ type }) => {
           <AccountBalanceWalletOutlinedIcon
             className="icon"
             style={{
-              backgroundColor: "rgba(128, 0, 128, 0.2)",
-              color: "purple",
+              backgroundColor: "black",
+              color: "white",
             }}
           />
         ),
@@ -80,8 +80,8 @@ const Widget = ({ type }) => {
           <AccountBalanceWalletOutlinedIcon
             className="icon"
             style={{
-              backgroundColor: "rgba(128, 0, 128, 0.2)",
-              color: "purple",
+              backgroundColor: "black",
+              color: "white",
             }}
           />
         ),
